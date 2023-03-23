@@ -1,6 +1,7 @@
 # Modelado
 
 #En ubuntu: 20.04.6
+
 #sudo apt install python3-pip
 #pip3 install matplotlib
 #pip3 install numpy
