@@ -11,7 +11,9 @@
 
 
 #Ejecutar:
-export PATH="$HOME/.local/bin:$PATH"
+
+#export PATH="$HOME/.local/bin:$PATH"
+
 #source ~/.bashrc
 
 #para correr el archivo simplemente ejecutar el comando python3 nombrearchivo.py
