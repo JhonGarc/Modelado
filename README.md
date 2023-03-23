@@ -7,7 +7,8 @@
 #pip3 install numpy
 
 #SI APRECE LO SIGUIENTE... WARNING: The scripts f2py, f2py3 and f2py3.8 are installed in '/home/jhon/.local/bin' which is not on PATH.
-#Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. Ejecutar:
+#Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location. 
+#Ejecutar:
 #export PATH="$HOME/.local/bin:$PATH"
 #source ~/.bashrc
 
